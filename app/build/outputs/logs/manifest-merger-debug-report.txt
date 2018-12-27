@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be02449c61b12e2050ef8b3617da11fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\14f080dd8c7a668dae2c59a7c40a5971\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a2d1d6aafc1ffc963cfe333c5984690e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\22ac6f362ee7534251e792ac9b9e66d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\32ec6686e04d5a89895ce6490f8c82dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2a70429ab3df80b6e4d8d945076e84fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1f44a648110a679d9ef4a09f4c70864b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\55b932f3ea73a7037f3e086ca22a611c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d23293a7c2aa5a2fc832ee0b73b1f9ca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\68989977c9a0014f5daaac7e2ce45149\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\596f0674dd8df6d625a6624fbcd2d5a3\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:18:5-45
+		INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be02449c61b12e2050ef8b3617da11fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be02449c61b12e2050ef8b3617da11fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\14f080dd8c7a668dae2c59a7c40a5971\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\14f080dd8c7a668dae2c59a7c40a5971\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a2d1d6aafc1ffc963cfe333c5984690e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a2d1d6aafc1ffc963cfe333c5984690e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\22ac6f362ee7534251e792ac9b9e66d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\22ac6f362ee7534251e792ac9b9e66d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\32ec6686e04d5a89895ce6490f8c82dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\32ec6686e04d5a89895ce6490f8c82dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2a70429ab3df80b6e4d8d945076e84fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2a70429ab3df80b6e4d8d945076e84fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1f44a648110a679d9ef4a09f4c70864b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1f44a648110a679d9ef4a09f4c70864b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\55b932f3ea73a7037f3e086ca22a611c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\55b932f3ea73a7037f3e086ca22a611c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d23293a7c2aa5a2fc832ee0b73b1f9ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d23293a7c2aa5a2fc832ee0b73b1f9ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\68989977c9a0014f5daaac7e2ce45149\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\68989977c9a0014f5daaac7e2ce45149\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\596f0674dd8df6d625a6624fbcd2d5a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Juan Luis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\596f0674dd8df6d625a6624fbcd2d5a3\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Juan Luis\Desktop\SimpleCalc\app\src\main\AndroidManifest.xml
